@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Home() {
+const Routes = () => {
   return (
     <div>
       
     </div>
   )
 }
+
+export default Routes
